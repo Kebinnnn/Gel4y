@@ -1,4 +1,3 @@
-[Gel4y-Mini-Shell-Backdoor-main.zip] https://github.com/Sys-t/Gel4y/files/6411195/Gel4y-Mini-Shell-Backdoor-main.zip
 <h2 align="center">Gel4y Mini Shell</h2>
 
 介绍
